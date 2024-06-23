@@ -9,11 +9,17 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
 
 ### Índice
 
-* [Estrutura do Projeto](#estrutura-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Estrutura do Projeto](#estrutura-projeto)
 * [Arquivos e Funcionalidades](#arquivos-funcionalidades)
 * [Próximos Passos](#proximos-passos)
 * [Contribuições](#contribuições)
+
+<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
+
+* **HTML:** Estrutura básica da página e dos elementos da interface.
+* **CSS:** Estilização da aparência da calculadora, garantindo um design atrativo e responsivo.
+* **JavaScript:** Lógica da calculadora, processando os cálculos e atualizando a interface.
 
 <h2 id="estrutura-projeto">Estrutura do Projeto</h2>
 
@@ -22,14 +28,6 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
 * **contatos.html:** Página com informações de contato do desenvolvedor e um formulário para envio de mensagens.
 * **styles.css:** Arquivo de estilos CSS responsável pela aparência visual da calculadora.
 * **script.js:** Arquivo JavaScript que contém a lógica da calculadora, realizando os cálculos e atualizando a interface.
-
-<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
-
-* **HTML:** Estrutura básica da página e dos elementos da interface.
-* **CSS:** Estilização da aparência da calculadora, garantindo um design atrativo e responsivo.
-* **JavaScript:** Lógica da calculadora, processando os cálculos e atualizando a interface.
-* **accounting.js:** Biblioteca JavaScript para formatação de números, tornando os resultados mais legíveis.
-
 
 <h2 id="arquivos-funcionalidades">Arquivos e Funcionalidades</h2>
 
