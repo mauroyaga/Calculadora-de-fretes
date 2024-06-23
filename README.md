@@ -1,4 +1,4 @@
-## Este projeto é um implementação de um sistema web feito em mérito de estudo para a conclusão de
+Este projeto é um implementação de um sistema web feito em mérito de estudo para a conclusão de
 semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 Aluno: Mauro Cesar Yaga Junio
