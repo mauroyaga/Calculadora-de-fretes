@@ -1,7 +1,5 @@
-## Link para o github pages da aplicação
-https://mauroyaga.github.io/Calculadora-de-fretes/
 
-## Calculadora de Frete
+# Calculadora de Frete
 
 Este repositório contém o código fonte para uma calculadora de frete simples e intuitiva, projetada para ajudar você a estimar os custos de transporte de cargas de forma rápida e eficiente.
 
@@ -12,11 +10,10 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
 ### Índice
 
 * [Estrutura do Projeto](#estrutura-projeto)
-* [Arquivos e Funcionalidades](#arquivos-funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Arquivos e Funcionalidades](#arquivos-funcionalidades)
 * [Próximos Passos](#proximos-passos)
 * [Contribuições](#contribuições)
-* [Licença](#licença)
 
 <h2 id="estrutura-projeto">Estrutura do Projeto</h2>
 
@@ -25,6 +22,14 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
 * **contatos.html:** Página com informações de contato do desenvolvedor e um formulário para envio de mensagens.
 * **styles.css:** Arquivo de estilos CSS responsável pela aparência visual da calculadora.
 * **script.js:** Arquivo JavaScript que contém a lógica da calculadora, realizando os cálculos e atualizando a interface.
+
+<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
+
+* **HTML:** Estrutura básica da página e dos elementos da interface.
+* **CSS:** Estilização da aparência da calculadora, garantindo um design atrativo e responsivo.
+* **JavaScript:** Lógica da calculadora, processando os cálculos e atualizando a interface.
+* **accounting.js:** Biblioteca JavaScript para formatação de números, tornando os resultados mais legíveis.
+
 
 <h2 id="arquivos-funcionalidades">Arquivos e Funcionalidades</h2>
 
@@ -52,15 +57,6 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
     * **Atualização da Interface:** Atualiza a área de resultados na página principal com os valores calculados, utilizando `innerHTML` para inserir o conteúdo dinamicamente.
     * **Placeholders:** Utiliza placeholders para os campos de entrada, fornecendo dicas visuais para o usuário sobre o tipo de informação que deve ser inserido em cada campo.
 
-### Tecnologias Utilizadas
-
-<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
-
-* **HTML:** Estrutura básica da página e dos elementos da interface.
-* **CSS:** Estilização da aparência da calculadora, garantindo um design atrativo e responsivo.
-* **JavaScript:** Lógica da calculadora, processando os cálculos e atualizando a interface.
-* **accounting.js:** Biblioteca JavaScript para formatação de números, tornando os resultados mais legíveis.
-
 <h2 id="proximos-passos">Próximos Passos</h2>
 
 * Adicionar funcionalidades para salvar e carregar os resultados da calculadora.
@@ -72,9 +68,5 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
 
 Contribuições para este projeto são bem-vindas! Se você tiver alguma sugestão, correção ou melhoria, sinta-se à vontade para abrir um issue ou enviar um pull request.
 
-<h2 id="licença">Licença</h2>
 
-Este projeto está licenciado sob a licença MIT.
-
-Agradecemos seu interesse na Calculadora de Frete! Esperamos que esta ferramenta seja útil para você.
 
