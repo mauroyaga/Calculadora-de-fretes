@@ -57,7 +57,7 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
     * **Placeholders:** Utiliza placeholders para os campos de entrada, fornecendo dicas visuais para o usuário sobre o tipo de informação que deve ser inserido em cada campo.
 
 <h2 id="telas">Layout das Páginas</h2>
-  
+![home](img/home-calculadora-de-fretes.png)
 
 <h2 id="proximos-passos">Próximos Passos</h2>
 
