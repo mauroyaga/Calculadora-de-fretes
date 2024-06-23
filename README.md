@@ -1,7 +1,16 @@
+## Este projeto é um implementação de um sistema web feito em mérito de estudo para a conclusão de
+semestre do curso de Análise e Desenvolvimento de Sistemas.
+
+Aluno: Mauro Cesar Yaga Junio
+Curso:ADS
+Faculdade: Senac-PR Maringá
+Professor: Rafael Alves Florindo
 
 # Calculadora de Frete
 
-Este repositório contém o código fonte para uma calculadora de frete simples e intuitiva, projetada para ajudar você a estimar os custos de transporte de cargas de forma rápida e eficiente.
+O objetivo deste projeto é desenvolver uma aplicação web que faça cálculos relacionados ao custo de fretes, voltada para caminhoneiros autônomos. A aplicação tem como propósito principal facilitar o cálculo dos custos e ganhos associados às viagens de transporte de cargas, fornecendo uma ferramenta intuitiva e eficiente para auxiliar os profissionais do transporte rodoviário.
+
+Por meio da Calculadora de Frete, os caminhoneiros autônomos poderão inserir  dados relacionados à viagem. Com base nessas informações, a aplicação realizará diversos cálculos automáticos, após deduzir todos os gastos.
 
 ### Acesse ao github pages do projeto 
 
@@ -57,14 +66,27 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
     * **Placeholders:** Utiliza placeholders para os campos de entrada, fornecendo dicas visuais para o usuário sobre o tipo de informação que deve ser inserido em cada campo.
 
 <h2 id="telas">Layout das Páginas</h2>
-![home](Calculadora-de-fretes/img/home-calculadora-de-fretes.png)
+
+**Página Home**
+
+![Home](img/home-calculadora-de-fretes.png)
+
+**Página Contato**
+
+![Contato](img/pagina-contatos-calculadora.png)
+
+**Página Sobre**
+
+![Sobre](img/sobre-calculadora-de-fretes.png)
+
+--- 
 
 <h2 id="proximos-passos">Próximos Passos</h2>
 
 * Adicionar funcionalidades para salvar e carregar os resultados da calculadora.
 * Integrar APIs de localização para obter as distâncias automaticamente.
-* Implementar um sistema de login para permitir que os usuários personalizem suas configurações.
-* Melhorar o design da calculadora com animações e elementos visuais.
+* Implementar um sistema de chatbot com IA para dar suporte a informações para o usuário.
+* Melhorar o design da calculadora com animações e elementos visuais, como foco em designer de marketing.
 
 <h2 id="contribuições">Contribuições</h2>
 
