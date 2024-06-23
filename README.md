@@ -12,6 +12,7 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Estrutura do Projeto](#estrutura-projeto)
 * [Arquivos e Funcionalidades](#arquivos-funcionalidades)
+* [Layot das páginas](#telas)
 * [Próximos Passos](#proximos-passos)
 * [Contribuições](#contribuições)
 
@@ -54,6 +55,9 @@ Experimente a calculadora de frete direto no seu navegador: https://mauroyaga.gi
     * **Formatação de Números:** Formata os resultados dos cálculos utilizando a biblioteca `accounting.js` para apresentar os valores de forma clara e legível, com separadores de milhar e casas decimais.
     * **Atualização da Interface:** Atualiza a área de resultados na página principal com os valores calculados, utilizando `innerHTML` para inserir o conteúdo dinamicamente.
     * **Placeholders:** Utiliza placeholders para os campos de entrada, fornecendo dicas visuais para o usuário sobre o tipo de informação que deve ser inserido em cada campo.
+
+<h2 id="telas">Layout das Páginas</h2>
+  
 
 <h2 id="proximos-passos">Próximos Passos</h2>
 
