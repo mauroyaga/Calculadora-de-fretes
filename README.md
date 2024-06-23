@@ -1,10 +1,10 @@
 Este projeto é um implementação de um sistema web feito em mérito de estudo para a conclusão de
 semestre do curso de Análise e Desenvolvimento de Sistemas.
 
-Aluno: Mauro Cesar Yaga Junio
-Curso:ADS
-Faculdade: Senac-PR Maringá
-Professor: Rafael Alves Florindo
+- Aluno: Mauro Cesar Yaga Junio
+- Curso:ADS
+- Faculdade: Senac-PR Maringá
+- Professor: Rafael Alves Florindo
 
 # Calculadora de Frete
 
